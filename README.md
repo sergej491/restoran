@@ -28,7 +28,7 @@ tailwind.config = { theme: { extend: {
 </head>
 <body class="bg-cream text-ink">
 
-<<header class="fixed top-0 inset-x-0 z-50 backdrop-blur-md bg-[rgba(40,20,22,.75)] border-b border-white/10">
+<header class="fixed top-0 inset-x-0 z-50 backdrop-blur-md bg-[rgba(40,20,22,.75)] border-b border-white/10">
   <div class="max-w-7xl mx-auto px-6 h-16 flex items-center justify-between">
     <a href="#top" class="flex items-center gap-2 text-cream">
       <span class="font-display text-xl tracking-wide">Scotty's</span>
